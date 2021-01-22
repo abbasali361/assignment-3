@@ -1,11 +1,11 @@
 // https://github.com/abbasali361/assignment-3
 
-//kilometereToMeter
-function kilometereToMeter(kilometer){
+//kilometerToMeter
+function kilometerToMeter(kilometer){
     var meter = kilometer *1000;
     return meter;
 }
-var countMeter = kilometereToMeter(150);
+var countMeter = kilometerToMeter(150);
 console.log(countMeter);
 
 
